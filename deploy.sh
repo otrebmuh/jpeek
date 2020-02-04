@@ -1,5 +1,5 @@
 #!/bin/bash
-# script to deploy project
+# script to deploy project (prototipo)
 
 set -e
 
