@@ -20,7 +20,7 @@
 
 Project architect: [@paulodamaso](https://github.com/paulodamaso)
 
-jPeek is a static collector of Java code metrics.
+jPeek is a static collector of Java code metrics. AQUI LE CAMBIE
 
 **Motivation**:
 [Class cohesion](http://www.jot.fm/issues/issue_2008_07/article1.pdf), for example,
