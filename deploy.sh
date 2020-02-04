@@ -1,4 +1,6 @@
 #!/bin/bash
+# script to deploy project
+
 set -e
 
 cd $(dirname $0)
